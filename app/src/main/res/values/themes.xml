@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.Examen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/azulPrimario</item>
+        <item name="colorPrimaryDark">@color/azulOscuroPrimario</item>
+        <item name="colorAccent">@color/verdeSecundario</item>
+    </style>
+    <style name="Widget.MyApp.Toolbar" parent="Widget.AppCompat.Toolbar">
+        <item name="android:background">?attr/colorPrimary</item>
+        <item name="titleTextColor">@android:color/white</item>
+    </style>
+</resources>

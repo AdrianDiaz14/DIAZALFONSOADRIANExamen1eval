@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Examen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/azulPrimario</item>
+        <item name="colorPrimaryDark">@color/azulOscuroPrimario</item>
+        <item name="colorAccent">@color/verdeSecundario</item>
+    </style>
+</resources>
